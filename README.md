@@ -6,6 +6,7 @@ A simple web application for movie fanatic
 - searching movies by title
 - add movies to your favorite list
 - manage your favorite list
+- change view page mode by list bar or card mode
 
 ### Searching
 type the title of the movies in search bar
@@ -13,3 +14,5 @@ type the title of the movies in search bar
 In index page, press the `+` button on the movie to keep it into favorite list.
 You can checkout the favorite list in `favorite.html`
 press `x` to remove it from favorite list
+### Change View Page Mode
+In right black icon can change view page mode in `index.html` 
